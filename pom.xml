@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.3.9.RELEASE</version>
+	</parent>
+	<groupId>org.test</groupId>
+	<artifactId>root</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0.0-SNAPSHOT</version>
+	
+	<modules>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l1</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l2</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l3</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l4</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l5</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l6</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l7</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l8</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l9</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l10</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l11</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l12</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l13</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l14</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l15</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l16</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l17</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l18</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l19</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l20</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l21</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l22</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l23</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l24</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l25</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l26</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l27</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l28</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l29</module>
+		<module>c1/c2/c3/c4/c5/c6/c7/c8/c9/c10/l30</module>
+	</modules>
+</project>
